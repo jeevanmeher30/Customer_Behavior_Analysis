@@ -27,4 +27,5 @@ End-to-end data pipeline creation
 
 Conclusion:
 This project demonstrates a complete data analysis pipeline
+
 Raw Data → Python Processing → PostgreSQL Analysis → Power BI Dashboard
